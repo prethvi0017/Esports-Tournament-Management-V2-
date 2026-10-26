@@ -102,7 +102,7 @@ pom.xml, run.bat, run.sh              Build and launch
 ## Links
 
 - **Live demo:** [mit-league.vercel.app](https://mit-league.vercel.app)
-- **GitHub:** [Jaiakash1508/Esports-Tournament-Management-V2](https://github.com/Jaiakash1508/Esports-Tournament-Management-V2)
+- **GitHub:** [prethvi0017/Esports-Tournament-Management-V2](https://github.com/prethvi0017/Esports-Tournament-Management-V2)
 - **Draw.io:** [docs/mit-league-diagrams.drawio](docs/mit-league-diagrams.drawio)
 
 Vercel hosts the static frontend only; the Java server and database run locally.
